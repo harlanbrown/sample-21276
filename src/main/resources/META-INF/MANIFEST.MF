@@ -1,0 +1,9 @@
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: .
+Manifest-Version: 1.0
+Bundle-Vendor: org.nuxeo.sample
+Bundle-Version: 1.0.0
+Bundle-Name: sample-21276-core
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: org.nuxeo.sample.sample-21276-core;singleton=true
+Nuxeo-Component: OSGI-INF/blobsize-operation-contrib.xml
